@@ -1,0 +1,4 @@
+﻿  hw5.c
+C:\Education\assignment\hw5.c\hw5.c\hw5.c(8): warning C4716: 'odd': 값을 반환해야 합니다.
+C:\Education\assignment\hw5.c\hw5.c\hw5.c(13): warning C4716: 'even': 값을 반환해야 합니다.
+  hw5.c.vcxproj -> C:\Education\assignment\hw5.c\Debug\hw5.c.exe
