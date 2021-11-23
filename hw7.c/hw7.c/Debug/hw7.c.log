@@ -1,0 +1,4 @@
+﻿  hw7.c
+C:\Education\assignment\hw7.c\hw7.c\hw7.c(16,33): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Education\assignment\hw7.c\hw7.c\hw7.c(18,27): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  hw7.c.vcxproj -> C:\Education\assignment\hw7.c\Debug\hw7.c.exe
