@@ -3,9 +3,9 @@
 
 struct employee
 {
-	char name[20]; // 이름
-	char country[20]; // 주민번호
-	int population; // 급여
+	char name[20]; 
+	char country[20];
+	int population; 
 };
 
 int main(void)
